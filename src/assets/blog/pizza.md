@@ -27,7 +27,7 @@ For tomato sauce you need:
 • ¼ small spoon of pepper  
 • 1 table spoon of olive oil
   
-Grind oregano and basil in mortar and concoct grinded herbs with rest of ingredients, mix thoroughly until everything is combined.
+Grind oregano and basil in mortar and concoct grinded herbs with rest of ingredients.
   
 ## Baking  
 The temperature is the key factor. 5 minutes at 400°C, longer for lower temperatures. Specialized ovens are preferable.   
