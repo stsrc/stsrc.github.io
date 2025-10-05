@@ -1,16 +1,21 @@
 # Pizza recipe  
-Pizza is great for experiments. You can ferment dough for a while, you can add various cheese as topping, but there are also some constraints. All constraints which are known to me are written as **bold**.
+Pizza is great for experiments. You can ferment dough for a while, you can add various cheese as topping, but there are also some constraints. All constraints which are known to me are written as **bold**.   
+[Here you can find nice recipe](https://www.vincenzosplate.com/neapolitan-pizza-dough/), which covers how to make a dough. My recipe is very similar, so all thanks to mentioned site.  
+
 ## Dough  
-For 1 person you need:  
-• 1¾ - 2 cups of strong flour (equals to 175 - 200g)  
-• 0.5 - 0.6 cup of water (maybe more)  
-• dry yeast (see information on package for dosage)  
-• ½ small spoon of salt  
-• 1 small spoon of sugar  
-• 1 table spoon of olive oil  
+For 2 dough balls you need:  
+• 400g of 00 flour  
+• 240g of room-temperature water  
+• 0.4g of dry active yeast  
+• 12g of salt  
   
-Before making dough check if yeast is alive. To do that put yeast into small bowl, add warm (not hot) water and add sugar into it, mix it well and wait 5-15 minutes. If you will see some movement (bubbles for example) then it means that they are alive. If not - go and buy new yeast.  
-To make dough simply add all dry ingredients, mix it, then gradually add yeast mixture from previous step, and gradually add water.  After the dough seems to be ready leave it for 30 minutes or 1 hour, so yeast has time to work and expand dough.
+Pour water into bowl, then add salt, mix thoroughly. Add 10% of flour (40g) and mix again until all elements have combined together. Now add yeast, and mix again.   
+Now slowly add rest of flour (360g) gradually, by adding one/three spoons of flour at a time. In the meantime you will have to start kneeding it. After adding rest of flour, kneed until dough bounces back on thumb press.   
+If dough bounces back, place dough in container somewhere in ambient temperature to start the fermentation process. You should keep it covered with damp cloth on top for 1.5 hour.   
+After 1.5 hour you can divide dough into 2 balls and place it in fridge in sealed container for 65-72 hours. On last hour you may take it from fridge so it may warm up to room temperature.
+
+Stretch dough in coarse wheat flour.
+
 ## Sauce  
 For tomato sauce you need:  
 • ½ can of whole tomatoes  
