@@ -9,8 +9,11 @@ For 2 dough balls you need:
 • 0.4g of dry active yeast  
 • 12g of salt  
   
-Pour water into bowl, then add salt, mix thoroughly. Add 10% of flour (40g) and mix again until all elements have combined together. Now add yeast, and mix again.   
-Now slowly add rest of flour (360g) gradually, by adding one/three spoons of flour at a time. In the meantime you will have to start kneeding it. After adding rest of flour, kneed until dough bounces back on thumb press.   
+Pour water into bowl, then add salt, mix thoroughly.   
+Add 10% of flour (40g) and mix again until all elements have combined together.   
+Add yeast, and mix again.   
+Now slowly add rest of flour (360g) gradually, by adding one/three spoons of flour at a time. In the meantime you will have to start kneading it.   
+After adding rest of flour, knead until dough bounces back on thumb press.   
 If dough bounces back, place dough in container somewhere in ambient temperature to start the fermentation process. You should keep it covered with damp cloth on top for 1.5 hour.   
 After 1.5 hour you can divide dough into 2 balls and place it in fridge in sealed container for 65-72 hours. On last hour you may take it from fridge so it may warm up to room temperature.
 
