@@ -20,14 +20,14 @@ Stretch dough in coarse wheat flour.
 
 ## Sauce  
 For tomato sauce you need:  
-• ½ can of whole tomatoes  
+• ½ can of tomato pulp     
 • ½ small spoon of oregano  
 • ¼ small spoon of basil  
 • ¼ small spoon of salt  
 • ¼ small spoon of pepper  
 • 1 table spoon of olive oil
   
-Take out tomatoes from can but leave the sauce. Blend tomatoes. Add all remaining ingredients, and blend again. Should be ready. If it's to watery, you can reduce it by heating it on a stove.
+Grind oregano and basil in mortar and concoct grinded herbs with rest of ingredients, mix thoroughly until everything is combined.
   
 ## Baking  
 The temperature is the key factor. 5 minutes at 400°C, longer for lower temperatures. Specialized ovens are preferable.   
