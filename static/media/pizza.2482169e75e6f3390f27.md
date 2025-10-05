@@ -1,5 +1,4 @@
 # Pizza recipe  
-Pizza is great for experiments. You can ferment dough for a while, you can add various cheese as topping, but there are also some constraints. All constraints which are known to me are written as **bold**.   
 [Here you can find nice recipe](https://www.vincenzosplate.com/neapolitan-pizza-dough/), which covers how to make a dough. My recipe is very similar, so all thanks to mentioned site.  
 
 ## Dough  
@@ -26,11 +25,10 @@ For tomato sauce you need:
 • ¼ small spoon of basil  
 • ¼ small spoon of salt  
 • ¼ small spoon of pepper  
-• **1 table spoon of olive oil**  
+• 1 table spoon of olive oil
   
 Take out tomatoes from can but leave the sauce. Blend tomatoes. Add all remaining ingredients, and blend again. Should be ready. If it's to watery, you can reduce it by heating it on a stove.
   
 ## Baking  
-If you are using baking plate: firstly **put flour on a baking plate** to prevent sticking pizza to the plate, but remember to put not to much of it. Then stretch dough and put it on a baking plate. Next add sauce and toppings.  
-Bake at **as high temperature as your oven can stand**. Bake until it looks ready (5 minutes for 400°C, longer for lower temperatures).
-
+The temperature is the key factor. 5 minutes at 400°C, longer for lower temperatures. Specialized ovens are preferable.   
+In case of normal oven, please try baking stones (but I haven't tried them though).
